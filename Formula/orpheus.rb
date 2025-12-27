@@ -6,7 +6,7 @@ class Orpheus < Formula
   license "MIT"
   version "0.1.0"
 
-  depends_on "ungive/media-control/media-control"
+  depends_on "media-control"
   depends_on :macos
 
   def install
