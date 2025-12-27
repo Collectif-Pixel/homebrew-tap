@@ -1,10 +1,10 @@
 class Orpheus < Formula
   desc "Now Playing overlay for OBS - Works with any music service"
   homepage "https://github.com/collectif-pixel/orpheus"
-  url "https://github.com/collectif-pixel/orpheus/releases/download/v0.1.2/orpheus-darwin-arm64.tar.gz"
-  sha256 "9c98d944ad61fbf5cc53a590dcddbeb9d96d21fead7a85f92b28911e2374f16f"
+  url "https://github.com/collectif-pixel/orpheus/releases/download/v0.1.3/orpheus-darwin-arm64.tar.gz"
+  sha256 "35aa0737d09f0faed570277b0eb00d4246029f8c9fc6f06bf90a74d8b79edce8"
   license "MIT"
-  version "0.1.2"
+  version "0.1.3"
 
   depends_on "media-control"
   depends_on :macos
